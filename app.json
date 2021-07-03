@@ -3,7 +3,7 @@
     "description": "A BinChecker Bot Made In Pure Dart Native.",
     "logo": "https://raw.githubusercontent.com/IndianBots/BinChecker/main/bin/logo.png",
     "keywords": ["dart", "telegram", "bug-less", "advanced"],
-    "repository": "https://github.com/IndianBots/BinChecker",
+    "repository": "https://github.com/sampathsir/BinChecker",
     "website": "https://github.com/IndianBots/BinChecker",
     "success_url": "",
     "env": {
